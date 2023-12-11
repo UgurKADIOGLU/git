@@ -1,1 +1,2 @@
 # İlk Repository
+ikinici kısım
